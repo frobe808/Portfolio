@@ -52,7 +52,6 @@
                         <li>cloud-hosting</li>
                         <li>Media & Design (not that i'm good at that)</li>
                         <li>Technologie in het algemeen </li>
-                        <li>en als je deze niet voldoende vind maak ik je nog wel iets anders wijs</li>
                     </ul>
 
                     <p>
@@ -61,7 +60,6 @@
                     <ul>
                         <li>Lezen</li>
                         <li>Muziek, vinyl-collector</li>
-                        <li>ontsnappen uit de drukke wereld</li>
                         <li>Voetbal</li>
                     </ul>
 
